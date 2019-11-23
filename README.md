@@ -24,7 +24,7 @@ validate.notNull(value [, message]) | Checks if the value if not null, if null, 
 ### Example
 
 ```javascript
-const validate = require('validate');
+const validate = require('@arcanix/validate');
 
 class SomeClass {
 
